@@ -1,0 +1,10 @@
+.hero-wrapper{
+    background-color: #003;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 3rem 0 3rem 0;
+}

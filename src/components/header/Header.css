@@ -1,0 +1,36 @@
+.header-landing{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.header-landing h2{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: bold;
+    color: white;
+}
+
+.header-landing h2 span{
+    color: rgb(245 158 11);
+}
+
+.header-current{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.header-current h2{
+   font-size: 1.875rem;
+   line-height: 1.25rem;
+   font-weight: bold;
+   color: black;
+}

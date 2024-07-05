@@ -1,0 +1,58 @@
+.info-container{
+    display: flex;
+    gap: 2rem;
+}
+
+.icons{
+    display: flex;
+    border-right-width: 2px;
+    border-color: white;
+    gap: 1rem;
+    padding-right: 2rem;
+    align-items: center;
+}
+
+.btn1{
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+.btn2{
+    color: white;
+    background-color: black;
+    position: relative;
+    border: none;
+}
+
+.circle{
+    position: absolute;
+    top: -0.5rem;
+    right: -0.5rem;
+    border-radius: 9999px;
+    background-color: rgb(30 64 175);
+    height: 0.75rem;
+    width: 0.75rem;
+    border-width: 1px;
+    border-color: white;
+}
+
+.user-info{
+    display: flex;
+    align-items: center;
+}
+
+.username{
+    font-size: 1.125rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+
+.user-picture{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 9999px;
+    padding: 1.6px;
+    border-width: 2px;
+    border-color: white;
+}
